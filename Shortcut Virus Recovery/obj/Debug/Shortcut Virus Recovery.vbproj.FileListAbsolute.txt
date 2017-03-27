@@ -1,0 +1,15 @@
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.exe.config
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.exe
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.pdb
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.xml
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut_Virus_Recovery.Form1.resources
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut_Virus_Recovery.Resources.resources
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.vbproj.GenerateResource.Cache
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.exe
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.xml
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.pdb
+c:\users\zonayed ahmed\documents\visual studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.vbprojResolveAssemblyReference.cache
+C:\Users\Zonayed Ahmed\Documents\Visual Studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.exe.manifest
+C:\Users\Zonayed Ahmed\Documents\Visual Studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\bin\Debug\Shortcut Virus Recovery.application
+C:\Users\Zonayed Ahmed\Documents\Visual Studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.exe.manifest
+C:\Users\Zonayed Ahmed\Documents\Visual Studio 2015\Projects\Shortcut Virus Recovery\Shortcut Virus Recovery\obj\Debug\Shortcut Virus Recovery.application
