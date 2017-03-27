@@ -1,0 +1,1 @@
+You can use this tool as a recovery tools for flashdrives like pendrive, memory card and so on
